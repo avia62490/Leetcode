@@ -1,0 +1,7 @@
+def contains_duplicate(nums)
+  if nums == nums.uniq
+    false
+  else
+    true
+  end
+end
